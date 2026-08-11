@@ -179,11 +179,11 @@ git commit -m "Record first GitHub push"
 ```powershell
 git push
 git status --short --branch
-git log --oneline --decorate -4
+git log --oneline --decorate -6
 ```
 
 预期结果：
 
 - 第二次推送成功。
 - 工作区干净，本地 `main` 正在跟踪 `origin/main`。
-- 最近四次提交依次包含：推送进度更新、README 创建、中文实施计划和 README 设计。
+- 最近六次提交依次包含：推送进度更新、README 创建、计划记录修正、中文实施计划、原始实施计划和 README 设计。
