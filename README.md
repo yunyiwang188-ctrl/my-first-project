@@ -23,3 +23,7 @@ git add README.md
 git commit -m "Add GitHub learning README"
 git push
 ```
+
+## 学习日志
+
+- 2026-08-12：学习查看 GitHub 提交历史和文件差异。
