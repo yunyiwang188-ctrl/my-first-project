@@ -23,3 +23,7 @@ git add README.md
 git commit -m "Add GitHub learning README"
 git push
 ```
+
+## 常用 AI 提示词
+
+- [提示词改写模板](prompts/prompt-refiner.md)：让 AI 帮你把想法整理成清晰、可执行的提示词，打开后即可复制。
